@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/steam-infusion-food-heater-explainer/
 
+Repository: https://github.com/mizcausevic-dev/steam-infusion-food-heater-explainer
+
 ## What this is
 
 An interactive anatomy plate for Steam-Infusion Food Heater. Play, scrub, or jump the five stages. The same frame always draws the same picture.
